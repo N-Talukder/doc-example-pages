@@ -7,8 +7,8 @@ documentation.
 ```{toctree}
 :maxdepth: 2
 :caption: Contents:
-doc/some-feature.md
-doc/another-feature.md
-doc/flower.md
-../src/multiply.py
+some-feature.md
+another-feature.md
+flower.md
+apidocs/index
 ```
